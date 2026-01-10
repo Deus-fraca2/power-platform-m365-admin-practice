@@ -28,6 +28,7 @@ Hands-on practice with Microsoft 365 Admin Center, Power Platform Admin Center, 
    - Administrative mailbox management
      
 ![Exchange Admin Center Mailboxes](screenshot_Exchange_Admin_Center_Mailboxes.JPG)
+
 *Screenshot demonstrates real configuration performed in Microsoft 365 Admin Center.  
 All tenant-specific information and identifiers have been anonymized.*
 
@@ -45,8 +46,7 @@ All screenshots are anonymized:
 - Security-aware documentation
 
 
-## Author
-
+### Author
 Denisa Pitnerova
 
 Junior / Associate Microsoft 365 & Power Platform Administrator  

